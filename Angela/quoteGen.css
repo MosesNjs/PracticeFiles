@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: rasalight;
+    src: url(/daily-coding/random_quote/roboto/rasalight.ttf);
+}
+
+@font-face {
+    font-family: cormorant-bold;
+    src: url(/daily-coding/random_quote/roboto/rasalight.ttf);
+}
+
+body {
+    background-color: gray;
+    
+}
+
+.container {
+margin: 80px;
+background-color: aqua;
+height: 400px;
+text-align: center;
+padding: 50px;
+}
